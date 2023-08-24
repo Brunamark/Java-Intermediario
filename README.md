@@ -1,2 +1,2 @@
-# JavaIntermediario
-Projetos Intermediario de Java
+# Java Intermediario
+Projetos Intermediarios de Java
