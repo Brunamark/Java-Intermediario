@@ -23,9 +23,7 @@ public class App {
         double price = sc.nextDouble();
         product.setPrice(price);
 
-        System.out.println("Enter the product quantity: ");
         int quantity = sc.nextInt();
-        product.setQuantity(quantity);
 
 
         int choice;
